@@ -1,6 +1,6 @@
 # Image Downloader with Multithreading
 
-A Python application to download images from URLs using multithreading for faster performance. This script ensures efficient downloading by leveraging `threading.Thread` for concurrent operations.
+A Python application to download images from URLs using multithreading for faster performance. 
 
 ## Features
 - Downloads images from a list of URLs concurrently.
