@@ -31,5 +31,3 @@ A Python application to download images from URLs using multithreading for faste
     python ImageDownloaderStart.py
     ```
 
-## License
-This project is open source and available under the MIT License.
